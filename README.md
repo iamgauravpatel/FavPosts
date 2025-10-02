@@ -43,14 +43,14 @@ FavPots – A SwiftUI iOS app to browse, search, and favorite posts with SwiftDa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Postly.git
+git clone [https://github.com/iamgauravpatel/FavPosts.git]
 ```
 
 2. Open the project in Xcode:
 
 ```bash
-cd postly
-open Postly.xcodeproj
+cd FavPosts
+open FavPosts.xcodeproj
 ```
 
 3. Build & run on simulator or device.
