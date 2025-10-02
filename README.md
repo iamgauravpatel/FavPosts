@@ -43,7 +43,7 @@ FavPots – A SwiftUI iOS app to browse, search, and favorite posts with SwiftDa
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/iamgauravpatel/FavPosts.git]
+git clone https://github.com/iamgauravpatel/FavPosts.git
 ```
 
 2. Open the project in Xcode:
