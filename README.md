@@ -19,9 +19,11 @@ FavPots – A SwiftUI iOS app to browse, search, and favorite posts with SwiftDa
 
 ## **Screenshots**
 
-![Posts List](screenshots/posts_list.png)
-![Post Detail](screenshots/post_detail.png)
-![Favorites](screenshots/favorites.png)
+<p align="center">
+  <img src="screenshots/posts_list.png" alt="Posts List" width="30%"/>
+  <img src="screenshots/post_detail.png" alt="Post Detail" width="30%"/>
+  <img src="screenshots/favorites.png" alt="Favorites" width="30%"/>
+</p>
 
 ---
 
